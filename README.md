@@ -82,6 +82,7 @@ if __name__ == "__main__":
         print("Chatbot:", result["answer"])
 ```
 ### OUTPUT:
-<img width="1600" height="672" alt="AI exp 3" src="https://github.com/user-attachments/assets/0219bf2e-6991-4f48-b6b2-8c6aa16ac951" />
+<img width="1046" height="212" alt="image" src="https://github.com/user-attachments/assets/c434c0c3-8608-4a60-a5a6-2ad1e5460906" />
+
 ### RESULT:
 The AI-powered PDF Question Answering Chatbot was successfully developed using LangChain, OpenAI, and ChromaDB. It extracts text from PDF documents, stores the text as embeddings, and retrieves relevant information based on user questions. The chatbot generates answers in natural language, making information retrieval faster, easier, and more efficient.
